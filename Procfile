@@ -1,0 +1,1 @@
+web: gunicorn indra-8380.wsgi --log-file –
